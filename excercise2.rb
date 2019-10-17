@@ -1,28 +1,26 @@
-# Exercise #2:  Aircraft Object
-
 class Aircraft
     @@x = 0
     @@y = 0
-    @@acceleration = 1
+    @@acceleration = 2
 
     def move_left
         puts("Moved Left..")
-        @@x-= 1
+        @@x-= 3
     end
 
     def move_right
         puts("Moved Right..")
-        @@x+=1
+        @@x+=2
     end
 
     def move_up
-        @@y+=1
+        @@y+=4
         puts("Moved Up..")
     end
 
     def move_down
         puts("Moved Down..")
-        @@y-=1
+        @@y-=6
     end
 end
 

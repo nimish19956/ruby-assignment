@@ -1,10 +1,10 @@
 # Exercise 5
 Creating New Aircraft Object: 0
 New Aircraft Object Has Just Been Initalized: 0
-Initial X-Coord:11
-Initial Y-Coord: 11
+Initial X-Coord:31
+Initial Y-Coord: 15
 New Boeing 747 Object Has Just Been Iniitalized: 0
-X-Coord:51
+X-Coord:41
 Y-Coord: 58
 Moved Right..
 Moved Right..
@@ -19,11 +19,11 @@ Moved Down..
 Moved Up..
 Creating New Aircraft Object: 1
 New Aircraft Object Has Just Been Initalized: 1
-Initial X-Coord:11
-Initial Y-Coord: 10
+Initial X-Coord:21
+Initial Y-Coord: 40
 New Boeing 747 Object Has Just Been Iniitalized: 1
-X-Coord:59
-Y-Coord: 51
+X-Coord:56
+Y-Coord: 71
 Moved Right..
 Moved Right..
 Moved Up..
@@ -37,10 +37,10 @@ Moved Down..
 Moved Up..
 Creating New Aircraft Object: 2
 New Aircraft Object Has Just Been Initalized: 2
-Initial X-Coord:11
-Initial Y-Coord: 15
+Initial X-Coord:41
+Initial Y-Coord: 35
 New Boeing 747 Object Has Just Been Iniitalized: 2
-X-Coord:56
+X-Coord:26
 Y-Coord: 56
 Moved Right..
 Moved Right..
@@ -73,11 +73,11 @@ Moved Down..
 Moved Up..
 Creating New Aircraft Object: 4
 New Aircraft Object Has Just Been Initalized: 4
-Initial X-Coord:7
-Initial Y-Coord: 9
+Initial X-Coord:5
+Initial Y-Coord: 7
 New Boeing 747 Object Has Just Been Iniitalized: 4
-X-Coord:69
-Y-Coord: 59
+X-Coord:39
+Y-Coord: 49
 Moved Right..
 Moved Right..
 Moved Up..
@@ -91,21 +91,21 @@ Moved Down..
 Moved Up..
 
 Aircraft [0]
-Final X-Coord:13
-Final Y-Coord: 14
+Final X-Coord:33
+Final Y-Coord: 18
 
 Aircraft [1]
-Final X-Coord:13
-Final Y-Coord: 13
+Final X-Coord:23
+Final Y-Coord: 43
 
 Aircraft [2]
-Final X-Coord:13
-Final Y-Coord: 18
+Final X-Coord:43
+Final Y-Coord: 38
 
 Aircraft [3]
 Final X-Coord:7
 Final Y-Coord: 17
 
 Aircraft [4]
-Final X-Coord:9
-Final Y-Coord: 12
+Final X-Coord:7
+Final Y-Coord: 10

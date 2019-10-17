@@ -1,5 +1,3 @@
-# Exercise #6: Algorithm Development
-
 class Aircraft
     def initialize(xval=0,yval=0)
         @x=xval
@@ -80,19 +78,19 @@ class Boeing_747 < Aircraft
     instances=["instance1", "instance2", "instance3", "instance4", "instance5"]
     for i in 0..instances.size-1
         if i==0
-            instances[i] = Boeing_747.new(5,8,51,60)
+            instances[i] = Boeing_747.new(5,6,71,60)
         end
         if i==1
-            instances[i] = Boeing_747.new(10,15,59,48)
+            instances[i] = Boeing_747.new(40,65,79,48)
         end
         if i==2
-            instances[i] = Boeing_747.new(3,12,57,49)
+            instances[i] = Boeing_747.new(3,42,57,49)
         end
         if i==3
-            instances[i] = Boeing_747.new(11,15,67,60)
+            instances[i] = Boeing_747.new(11,15,57,60)
         end
         if i==4
-            instances[i] = Boeing_747.new(12,17,50,62)
+            instances[i] = Boeing_747.new(12,57,70,12)
         end
         puts("Creating New Aircraft Object: #{i}")
         puts("New Aircraft Object Has Just Been Initalized: #{i}")

@@ -1,5 +1,3 @@
-# Exercise #3: Create a small fleet of Aircraft
-
 class Aircraft
    
     def initialize
@@ -9,18 +7,18 @@ class Aircraft
     end
 
     def move_left
-        @x-= 1
+        @x-= 2
     end
 
     def move_right
-        @x+=1
+        @x+=3
     end
 
     def move_up
-        @y+=1
+        @y+=4
     end
     def move_down
-        @y-=1
+        @y-=2
     end
 end
 puts("# Exercise 3 \n")

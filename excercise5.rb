@@ -1,4 +1,3 @@
-# Exercise 5
 class Aircraft
     def initialize(xval=0,yval=0)
         @x=xval
@@ -79,19 +78,19 @@ class Boeing_747 < Aircraft
     instances=["instance1", "instance2", "instance3", "instance4", "instance5"]
     for i in 0..instances.size-1
         if i==0
-            instances[i] = Boeing_747.new(11,11,51,58)
+            instances[i] = Boeing_747.new(31,15,41,58)
         end
         if i==1
-            instances[i] = Boeing_747.new(11,10,59,51)
+            instances[i] = Boeing_747.new(21,40,56,71)
         end
         if i==2
-            instances[i] = Boeing_747.new(11,15,56,56)
+            instances[i] = Boeing_747.new(41,35,26,56)
         end
         if i==3
             instances[i] = Boeing_747.new(5,14,64,50)
         end
         if i==4
-            instances[i] = Boeing_747.new(7,9,69,59)
+            instances[i] = Boeing_747.new(5,7,39,49)
         end
         puts("Creating New Aircraft Object: #{i}")
         puts("New Aircraft Object Has Just Been Initalized: #{i}")

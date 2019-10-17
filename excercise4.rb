@@ -1,4 +1,3 @@
-# Exercise 4
 class Aircraft
 
     def initialize(xval,yval)
@@ -32,20 +31,20 @@ puts("# Exercise 4 \n")
 instances=["instance1", "instance2", "instance3", "instance4", "instance5"]
 
 for i in 0..instances.size-1
-    if i==0 
+    if i==0
         instances[i] = Aircraft.new(0,0)
     end
     if i==1 
-        instances[i] = Aircraft.new(3,6)
+        instances[i] = Aircraft.new(4,6)
     end
     if i==2 
-        instances[i] = Aircraft.new(6,12)
+        instances[i] = Aircraft.new(6,14)
     end
     if i==3 
-        instances[i] = Aircraft.new(9,18)
+        instances[i] = Aircraft.new(9,20)
     end
     if i==4 
-        instances[i] = Aircraft.new(12,24)
+        instances[i] = Aircraft.new(13,24)
     end
 
     puts("Creating New Aircraft Object: #{i}")

@@ -16,7 +16,7 @@ Moved Down..
 Moved Up..
 Creating New Aircraft Object: 1
 New Aircraft Object Has Just Been Initalized: 1
-Initial X-Coord:3
+Initial X-Coord:4
 Initial Y-Coord: 6
 Moved Right..
 Moved Right..
@@ -32,7 +32,7 @@ Moved Up..
 Creating New Aircraft Object: 2
 New Aircraft Object Has Just Been Initalized: 2
 Initial X-Coord:6
-Initial Y-Coord: 12
+Initial Y-Coord: 14
 Moved Right..
 Moved Right..
 Moved Up..
@@ -47,7 +47,7 @@ Moved Up..
 Creating New Aircraft Object: 3
 New Aircraft Object Has Just Been Initalized: 3
 Initial X-Coord:9
-Initial Y-Coord: 18
+Initial Y-Coord: 20
 Moved Right..
 Moved Right..
 Moved Up..
@@ -61,7 +61,7 @@ Moved Down..
 Moved Up..
 Creating New Aircraft Object: 4
 New Aircraft Object Has Just Been Initalized: 4
-Initial X-Coord:12
+Initial X-Coord:13
 Initial Y-Coord: 24
 Moved Right..
 Moved Right..
@@ -80,17 +80,17 @@ Final X-Coord:2
 Final Y-Coord: 3
 
 Aircraft [1]
-Final X-Coord:5
+Final X-Coord:6
 Final Y-Coord: 9
 
 Aircraft [2]
 Final X-Coord:8
-Final Y-Coord: 15
+Final Y-Coord: 17
 
 Aircraft [3]
 Final X-Coord:11
-Final Y-Coord: 21
+Final Y-Coord: 23
 
 Aircraft [4]
-Final X-Coord:14
+Final X-Coord:15
 Final Y-Coord: 27

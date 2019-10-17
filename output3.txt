@@ -45,21 +45,21 @@ Aircraft Instance 4 has moved UP ...
 Aircraft Instance 4 has moved UP ...
 
 Aircraft [0]
-Final X-Coord:1
-Final Y-Coord: 3
+Final X-Coord:3
+Final Y-Coord: 12
 
 Aircraft [1]
-Final X-Coord:2
-Final Y-Coord: 1
+Final X-Coord:6
+Final Y-Coord: 4
 
 Aircraft [2]
-Final X-Coord:2
-Final Y-Coord: 3
+Final X-Coord:6
+Final Y-Coord: 12
 
 Aircraft [3]
-Final X-Coord:1
-Final Y-Coord: 1
+Final X-Coord:4
+Final Y-Coord: 4
 
 Aircraft [4]
-Final X-Coord:5
-Final Y-Coord: 3
+Final X-Coord:15
+Final Y-Coord: 12
